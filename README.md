@@ -6,3 +6,9 @@
 
 - The tests tha are written in TDD are those that drive the development forward, and not necessarily those that cover all imaginable scenarios.
 
+- for running tests use this command:
+```bash
+python -m unittest
+(or)
+python -m unittest discover
+```
