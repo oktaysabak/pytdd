@@ -12,3 +12,5 @@ python -m unittest
 (or)
 python -m unittest discover
 ```
+
+- `assertAlmostEqual` method is often used when checking equality with floating numbers. The reason is that due to the way floating points are stored, the result may not be exactly the number you expect.
