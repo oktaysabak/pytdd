@@ -1,0 +1,7 @@
+[run]
+source =
+    src/
+omit =
+    */site-packages/*
+    */distutils/*
+    tests/*
